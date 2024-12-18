@@ -1,4 +1,4 @@
-# VisualBasic-Mega# Curso de Visual Basic 6.0 - Mega Semillero
+# Curso de Visual Basic 6.0 - Mega Semillero
 
 
 ## Objetivos del Curso
