@@ -101,7 +101,7 @@ Dim cn As ADODB.Connection
 Dim rs As ADODB.Recordset
 
 Set cn = New ADODB.Connection
-cn.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\MiProyecto\VisionBoard.mdb;"
+cn.ConnectionString = "Provider=SQLOLEDB;Data Source=.\SQLEXPRESS;Initial Catalog=ImágenesDB;Integrated Security=SSPI;"
 cn.Open
 
 Set rs = New ADODB.Recordset
