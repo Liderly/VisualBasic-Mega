@@ -17,7 +17,7 @@
 - **Formato:** Clases teórico-prácticas con ejercicios en clase y tareas entre sesiones.
 - **Proyecto Final:** "Vision Board" entregable al finalizar el módulo.
 
-![Proyecto final](images\proyecto.png)
+![Proyecto final](images/proyecto.png)
 
 
 
